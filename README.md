@@ -10,7 +10,7 @@ The vulnerabilities used in these apps come from the [OWASP Mobile Application S
 - Penetration testers / security researchers can identify bad practices, dangerous methods and classes they should look for when assessing a mobile app and can gain more knowledge through the information provided in the MASTG.
 - It is also encouraged to use these apps for education purpose during trainings and workshops.
 
-If you want to contribute, please [contact us](https://mas.owasp.org/#connect-with-us). For instance, you could: 
+If you want to contribute, please [contact us](https://mas.owasp.org/#connect-with-us). For instance, you could:   
 
 - Extend MASTG test case coverage
 - Improve the user / hacker experience
