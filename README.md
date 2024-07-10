@@ -1,4 +1,4 @@
-# MASTG Hacking Playground
+# MASTG Hacking Playground 
 
 Welcome to the MASTG Hacking Playground which is part of the [OWASP Mobile Application Security (MAS) project](https://mas.owasp.org/).
 
